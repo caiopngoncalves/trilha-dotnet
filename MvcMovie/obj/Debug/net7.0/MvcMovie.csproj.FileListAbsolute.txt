@@ -258,3 +258,8 @@ C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\MvcMovie\obj\Debug\net7.0\ref
 C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\MvcMovie\obj\Debug\net7.0\MvcMovie.pdb
 C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\MvcMovie\obj\Debug\net7.0\MvcMovie.genruntimeconfig.cache
 C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\MvcMovie\obj\Debug\net7.0\ref\MvcMovie.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\MvcMovie\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
