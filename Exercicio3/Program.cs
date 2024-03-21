@@ -1,40 +1,28 @@
-﻿enum Exercicio
+﻿class Worker
 {
-    Academia = 1,
-    Luta = 2,
-    Corrida = 3
+    public void Work()
+    {
+        for (int i = 1; i <= 10; i++)
+        {
+            Console.WriteLine($"Trabalhador está realizando o trabalho {i}/10");
+            Thread.Sleep(1000);
+        }
+        Console.WriteLine("Trabalhador concluiu o trabalho.");
+    }
 }
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        Console.WriteLine("Opções de exercícios:");
-
-        foreach (Exercicio exercicio in Enum.GetValues(typeof(Exercicio)))
-        {
-            Console.WriteLine($"{(int)exercicio} - {exercicio}");
-        }
-
-        Console.Write("Digite o número correspondente ao exercício desejado: ");
-
-        try
-        {
-            int opcao = int.Parse(Console.ReadLine());
-
-            if (Enum.IsDefined(typeof(Exercicio), opcao))
-            {
-                Exercicio exercicioSelecionado = (Exercicio)opcao;
-                Console.WriteLine($"Você selecionou o exercício: {exercicioSelecionado}");
-            }
-            else
-            {
-                Console.WriteLine("Opção inválida. Por favor, digite um número válido (1, 2 ou 3).");
-            }
-        }
-        catch (FormatException)
-        {
-            Console.WriteLine("Formato inválido. Por favor, digite um número válido (1, 2 ou 3).");
-        }
+        Worker worker1 = new Worker();
+        Worker worker2 = new Worker();
+        Thread thread1 = new Thread(worker1.Work);
+        Thread thread2 = new Thread(worker2.Work);
+        thread1.Start();
+        thread2.Start();
+        thread1.Join();
+        thread2.Join();
+        Console.WriteLine("Ambas as threads concluíram o trabalho. O programa principal está encerrando.");
     }
 }

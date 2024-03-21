@@ -1,30 +1,20 @@
-﻿public interface IServico
+﻿class Program
 {
-    void Executar();
-}
-
-public class ServicoFabrica<T> where T : IServico, new()
-{
-    public T NovaInstancia()
+    static async Task Main()
     {
-        return new T();
+        Task task1 = DoWorkAsync("Tarefa 1");
+        Task task2 = DoWorkAsync("Tarefa 2");
+        await Task.WhenAll(task1, task2);
+        Console.WriteLine("Ambas as tarefas foram concluídas.");
     }
-}
 
-public class ExemploServico : IServico
-{
-    public void Executar()
+    static async Task DoWorkAsync(string taskName)
     {
-        Console.WriteLine("Executando o serviço exemplo");
-    }
-}
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        ServicoFabrica<ExemploServico> fabrica = new ServicoFabrica<ExemploServico>();
-        ExemploServico servico = fabrica.NovaInstancia();
-        servico.Executar();
+        for (int i = 1; i <= 5; i++)
+        {
+            Console.WriteLine($"{taskName} está realizando o trabalho {i}/5");
+            await Task.Delay(1000);
+        }
+        Console.WriteLine($"{taskName} concluiu o trabalho.");
     }
 }
