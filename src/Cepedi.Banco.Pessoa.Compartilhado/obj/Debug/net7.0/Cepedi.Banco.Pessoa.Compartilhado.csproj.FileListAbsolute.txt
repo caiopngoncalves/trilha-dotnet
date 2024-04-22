@@ -1,0 +1,12 @@
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/bin/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.deps.json
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/bin/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.dll
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/bin/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.pdb
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.csproj.AssemblyReference.cache
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.AssemblyInfoInputs.cache
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.AssemblyInfo.cs
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.csproj.CoreCompileInputs.cache
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.dll
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/refint/Cepedi.Banco.Pessoa.Compartilhado.dll
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.pdb
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/ref/Cepedi.Banco.Pessoa.Compartilhado.dll

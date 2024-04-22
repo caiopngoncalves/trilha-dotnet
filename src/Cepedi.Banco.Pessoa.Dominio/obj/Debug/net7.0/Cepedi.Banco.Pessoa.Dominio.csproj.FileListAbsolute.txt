@@ -1,0 +1,15 @@
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/bin/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.deps.json
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/bin/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.dll
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/bin/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.pdb
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/bin/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.dll
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/bin/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.pdb
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.csproj.AssemblyReference.cache
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.AssemblyInfoInputs.cache
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.AssemblyInfo.cs
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.csproj.CoreCompileInputs.cache
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.csproj.CopyComplete
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.dll
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/refint/Cepedi.Banco.Pessoa.Dominio.dll
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.pdb
+/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/ref/Cepedi.Banco.Pessoa.Dominio.dll

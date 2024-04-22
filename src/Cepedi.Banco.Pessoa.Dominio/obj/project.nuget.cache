@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gQz7m5Q8BU+Eoi6dpjd3eAgXRJzJDRkpBMY6r8rgBWdXwTCiTuUnsUrqJNPtXxYggrikesHvex96FO41mYo8A==",
+  "success": true,
+  "projectFilePath": "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/Cepedi.Banco.Pessoa.Dominio.csproj",
+  "expectedPackageFiles": [
+    "/home/caio-nascimento-goncalves/.nuget/packages/divino.operationresult/3.1.0/divino.operationresult.3.1.0.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/refit/7.0.0/refit.7.0.0.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/system.net.http.json/7.0.1/system.net.http.json.7.0.1.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/caio-nascimento-goncalves/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

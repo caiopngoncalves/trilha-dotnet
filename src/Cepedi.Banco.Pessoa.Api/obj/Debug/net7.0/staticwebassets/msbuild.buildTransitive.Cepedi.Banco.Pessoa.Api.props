@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Cepedi.Banco.Pessoa.Api.props" />
+</Project>
