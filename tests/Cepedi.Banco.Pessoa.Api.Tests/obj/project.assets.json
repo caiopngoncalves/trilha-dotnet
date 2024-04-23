@@ -9925,19 +9925,19 @@
     ]
   },
   "packageFolders": {
-    "/home/caio-nascimento-goncalves/.nuget/packages/": {}
+    "C:\\Users\\Caio Philipe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/tests/Cepedi.Banco.Pessoa.Api.Tests/Cepedi.Banco.Pessoa.Api.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\tests\\Cepedi.Banco.Pessoa.Api.Tests\\Cepedi.Banco.Pessoa.Api.Tests.csproj",
       "projectName": "Cepedi.Banco.Pessoa.Api.Tests",
-      "projectPath": "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/tests/Cepedi.Banco.Pessoa.Api.Tests/Cepedi.Banco.Pessoa.Api.Tests.csproj",
-      "packagesPath": "/home/caio-nascimento-goncalves/.nuget/packages/",
-      "outputPath": "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/tests/Cepedi.Banco.Pessoa.Api.Tests/obj/",
+      "projectPath": "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\tests\\Cepedi.Banco.Pessoa.Api.Tests\\Cepedi.Banco.Pessoa.Api.Tests.csproj",
+      "packagesPath": "C:\\Users\\Caio Philipe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\tests\\Cepedi.Banco.Pessoa.Api.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/caio-nascimento-goncalves/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Caio Philipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -9949,8 +9949,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Api/Cepedi.Banco.Pessoa.Api.csproj": {
-              "projectPath": "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Api/Cepedi.Banco.Pessoa.Api.csproj"
+            "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\src\\Cepedi.Banco.Pessoa.Api\\Cepedi.Banco.Pessoa.Api.csproj": {
+              "projectPath": "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\src\\Cepedi.Banco.Pessoa.Api\\Cepedi.Banco.Pessoa.Api.csproj"
             }
           }
         }
@@ -10010,7 +10010,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

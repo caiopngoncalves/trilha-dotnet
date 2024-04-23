@@ -10,3 +10,15 @@
 /home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/refint/Cepedi.Banco.Pessoa.Compartilhado.dll
 /home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Compartilhado.pdb
 /home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/obj/Debug/net7.0/ref/Cepedi.Banco.Pessoa.Compartilhado.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.deps.json
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.pdb
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.csproj.AssemblyReference.cache
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.AssemblyInfoInputs.cache
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.AssemblyInfo.cs
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.csproj.CoreCompileInputs.cache
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\obj\Debug\net7.0\refint\Cepedi.Banco.Pessoa.Compartilhado.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.pdb
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Compartilhado\obj\Debug\net7.0\ref\Cepedi.Banco.Pessoa.Compartilhado.dll

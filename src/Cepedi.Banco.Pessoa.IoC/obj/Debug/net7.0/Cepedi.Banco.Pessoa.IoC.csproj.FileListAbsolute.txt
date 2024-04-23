@@ -17,3 +17,22 @@
 /home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.IoC/obj/Debug/net7.0/refint/Cepedi.Banco.Pessoa.IoC.dll
 /home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.IoC/obj/Debug/net7.0/Cepedi.Banco.Pessoa.IoC.pdb
 /home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.IoC/obj/Debug/net7.0/ref/Cepedi.Banco.Pessoa.IoC.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\obj\Debug\net7.0\Cepedi.Banco.Pessoa.IoC.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\obj\Debug\net7.0\refint\Cepedi.Banco.Pessoa.IoC.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\obj\Debug\net7.0\Cepedi.Banco.Pessoa.IoC.pdb
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\bin\Debug\net7.0\Cepedi.Banco.Pessoa.IoC.deps.json
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\bin\Debug\net7.0\Cepedi.Banco.Pessoa.IoC.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\bin\Debug\net7.0\Cepedi.Banco.Pessoa.IoC.pdb
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Dados.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Dados.pdb
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.pdb
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.pdb
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\obj\Debug\net7.0\Cepedi.Banco.Pessoa.IoC.csproj.AssemblyReference.cache
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\obj\Debug\net7.0\Cepedi.Banco.Pessoa.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\obj\Debug\net7.0\Cepedi.Banco.Pessoa.IoC.AssemblyInfoInputs.cache
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\obj\Debug\net7.0\Cepedi.Banco.Pessoa.IoC.AssemblyInfo.cs
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\obj\Debug\net7.0\Cepedi.Banco.Pessoa.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\obj\Debug\net7.0\Cepedi.Banco.Pessoa.IoC.csproj.CopyComplete
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.IoC\obj\Debug\net7.0\ref\Cepedi.Banco.Pessoa.IoC.dll

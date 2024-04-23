@@ -9148,19 +9148,19 @@
     ]
   },
   "packageFolders": {
-    "/home/caio-nascimento-goncalves/.nuget/packages/": {}
+    "C:\\Users\\Caio Philipe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/tests/Cepedi.Banco.Pessoa.Dominio.Tests/Cepedi.Banco.Pessoa.Dominio.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\tests\\Cepedi.Banco.Pessoa.Dominio.Tests\\Cepedi.Banco.Pessoa.Dominio.Tests.csproj",
       "projectName": "Cepedi.Banco.Pessoa.Dominio.Tests",
-      "projectPath": "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/tests/Cepedi.Banco.Pessoa.Dominio.Tests/Cepedi.Banco.Pessoa.Dominio.Tests.csproj",
-      "packagesPath": "/home/caio-nascimento-goncalves/.nuget/packages/",
-      "outputPath": "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/tests/Cepedi.Banco.Pessoa.Dominio.Tests/obj/",
+      "projectPath": "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\tests\\Cepedi.Banco.Pessoa.Dominio.Tests\\Cepedi.Banco.Pessoa.Dominio.Tests.csproj",
+      "packagesPath": "C:\\Users\\Caio Philipe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\tests\\Cepedi.Banco.Pessoa.Dominio.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/caio-nascimento-goncalves/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Caio Philipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -9172,11 +9172,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dados/Cepedi.Banco.Pessoa.Dados.csproj": {
-              "projectPath": "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dados/Cepedi.Banco.Pessoa.Dados.csproj"
+            "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\src\\Cepedi.Banco.Pessoa.Dados\\Cepedi.Banco.Pessoa.Dados.csproj": {
+              "projectPath": "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\src\\Cepedi.Banco.Pessoa.Dados\\Cepedi.Banco.Pessoa.Dados.csproj"
             },
-            "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/Cepedi.Banco.Pessoa.Dominio.csproj": {
-              "projectPath": "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/Cepedi.Banco.Pessoa.Dominio.csproj"
+            "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\src\\Cepedi.Banco.Pessoa.Dominio\\Cepedi.Banco.Pessoa.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\src\\Cepedi.Banco.Pessoa.Dominio\\Cepedi.Banco.Pessoa.Dominio.csproj"
             }
           }
         }
@@ -9236,7 +9236,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -35,7 +35,10 @@ public class CadastrarEnderecoRequestHandler : IRequestHandler<CadastrarEndereco
         var verificarCep = new VerificarCep();
         var consultaEndereco = await verificarCep.GetEndereço(request.Cep);
 
-        endereco.Logradouro =consultaEndereco
+        endereco.Logradouro = consultaEndereco.logradouro;
+        endereco.Bairro = consultaEndereco.bairro;
+        endereco.Uf = consultaEndereco.uf;
+        endereco.Complemento = consultaEndereco.complemento;
 
         await _enderecoRepository.CadastrarEnderecoAsync(endereco);
 

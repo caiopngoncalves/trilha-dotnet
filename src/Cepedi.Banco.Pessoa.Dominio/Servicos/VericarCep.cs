@@ -1,7 +1,5 @@
 using System.Net;
 using System.Text.Json;
-using Refit;
-using RefitExample.Results;
 
 public class VerificarCep{
     public async Task<EnderecoResult> GetEndereço(string cep){
@@ -9,7 +7,7 @@ public class VerificarCep{
         var httpCLient = new HttpClient();
         var response = await httpCLient.GetAsync(url);
         if(!response.IsSuccessStatusCode){
-            throw new Exception ("Erro de comunicação");
+            throw new Exception ("Erro ao verificar cep");
         }
         var responseContet = await response.Content.ReadAsStringAsync();
         var result = JsonSerializer.Deserialize<EnderecoResult>(responseContet);
@@ -17,7 +15,7 @@ public class VerificarCep{
     }
 }
 
-class EnderecoResult {
+public class EnderecoResult {
     public string cep {get; set;}
     public string logradouro {get; set;}
     public string complemento {get; set;}

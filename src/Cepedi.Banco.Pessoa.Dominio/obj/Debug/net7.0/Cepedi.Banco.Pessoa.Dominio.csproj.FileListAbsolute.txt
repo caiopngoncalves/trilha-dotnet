@@ -13,3 +13,18 @@
 /home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/refint/Cepedi.Banco.Pessoa.Dominio.dll
 /home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/Cepedi.Banco.Pessoa.Dominio.pdb
 /home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dominio/obj/Debug/net7.0/ref/Cepedi.Banco.Pessoa.Dominio.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.csproj.AssemblyReference.cache
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.AssemblyInfoInputs.cache
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.AssemblyInfo.cs
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\obj\Debug\net7.0\refint\Cepedi.Banco.Pessoa.Dominio.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.pdb
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.deps.json
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.pdb
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.dll
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\bin\Debug\net7.0\Cepedi.Banco.Pessoa.Compartilhado.pdb
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\obj\Debug\net7.0\Cepedi.Banco.Pessoa.Dominio.csproj.CopyComplete
+C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dominio\obj\Debug\net7.0\ref\Cepedi.Banco.Pessoa.Dominio.dll

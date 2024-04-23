@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZXdJ1enqrLuRUagzQ+fUrct3fHKGhJxZTjRkQn94rynO53kAX6pOxRj0v8fmUusSMygXWV/EU9uoIaVGzS1Gw==",
+  "dgSpecHash": "vxh7zYoKCMXMshXQm99s2FKfmz32FoDzw6qKZG8iSPhF14Vq2YOuEFwU/zw8fdY6/HsGBmJuvKORtKdy6bL3Ew==",
   "success": true,
-  "projectFilePath": "/home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Compartilhado/Cepedi.Banco.Pessoa.Compartilhado.csproj",
+  "projectFilePath": "C:\\Users\\Caio Philipe\\Desktop\\Cepedi\\trilha-dotnet\\src\\Cepedi.Banco.Pessoa.Compartilhado\\Cepedi.Banco.Pessoa.Compartilhado.csproj",
   "expectedPackageFiles": [
-    "/home/caio-nascimento-goncalves/.nuget/packages/divino.operationresult/3.1.0/divino.operationresult.3.1.0.nupkg.sha512",
-    "/home/caio-nascimento-goncalves/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
-    "/home/caio-nascimento-goncalves/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
-    "/home/caio-nascimento-goncalves/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/home/caio-nascimento-goncalves/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "/home/caio-nascimento-goncalves/.nuget/packages/refit/7.0.0/refit.7.0.0.nupkg.sha512",
-    "/home/caio-nascimento-goncalves/.nuget/packages/system.net.http.json/7.0.1/system.net.http.json.7.0.1.nupkg.sha512",
-    "/home/caio-nascimento-goncalves/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/home/caio-nascimento-goncalves/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"
+    "C:\\Users\\Caio Philipe\\.nuget\\packages\\divino.operationresult\\3.1.0\\divino.operationresult.3.1.0.nupkg.sha512",
+    "C:\\Users\\Caio Philipe\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\Caio Philipe\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Caio Philipe\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Caio Philipe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Caio Philipe\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\Caio Philipe\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\Caio Philipe\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Caio Philipe\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
   ],
   "logs": []
 }

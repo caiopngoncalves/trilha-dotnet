@@ -9,4 +9,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Cepedi.Banco.Pessoa.Dados
-build_property.ProjectDir = /home/caio-nascimento-goncalves/Área de trabalho/Nova pasta 1/trilha-dotnet/src/Cepedi.Banco.Pessoa.Dados/
+build_property.ProjectDir = C:\Users\Caio Philipe\Desktop\Cepedi\trilha-dotnet\src\Cepedi.Banco.Pessoa.Dados\
