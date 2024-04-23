@@ -18,23 +18,22 @@ public class ObterEnderecoPorCepRequestHandler : IRequestHandler<ObterEnderecoPo
     }
     public async Task<Result<ObterEnderecoPorCepResponse>> Handle(ObterEnderecoPorCepRequest request, CancellationToken cancellationToken)
     {
-        var endereco = await _enderecoRepository.ObterEnderecoPorCepAsync(request.Cep);
-        if (endereco == null)
-        {
-            return Result.Error<ObterEnderecoPorCepResponse>(new Compartilhado.Exceptions.SemResultadosExcecao());
-        }
+        //var endereco = await _enderecoRepository.ObterEnderecoPorCepAsync(request.Cep);
 
+        var verificarCep = new VerificarCep();
+        var enderecoApi = await verificarCep.GetEndereço(request.Cep);
         return Result.Success(new ObterEnderecoPorCepResponse()
         {
-            Id = endereco.Id,
-            Cep = endereco.Cep,
-            Logradouro = endereco.Logradouro,
-            Complemento = endereco.Complemento,
-            Bairro = endereco.Bairro,
-            Cidade = endereco.Cidade,
-            Uf = endereco.Uf,
-            Pais = endereco.Pais,
-            Numero = endereco.Numero
+            Cep = enderecoApi.cep,
+            Logradouro = enderecoApi.logradouro,
+            Complemento = enderecoApi.complemento,
+            Bairro = enderecoApi.bairro,
+            Cidade = enderecoApi.localidade,
+            Uf = enderecoApi.uf,
+            Pais = "Brasil",
+            Numero = "0"
         });
     }
+
+
 }
